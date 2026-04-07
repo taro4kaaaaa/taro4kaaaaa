@@ -8,27 +8,19 @@ Frontend-разработчик, создаю современные, быстр
 
 ## 🧠 Стек технологий  
 
-HTML
-CSS
-JavaScript
-TypeScript
-React
-Git
-Figma
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Git
+- Figma
 
 ---
 
 ## 🎨 Портфолио  
 
-🔗 Мои проекты
-
----
-
-## 📂 Проекты  
-
-- 📌 Портфолио сайт  
-- 📌 Лендинги  
-- 📌 UI-компоненты  
+🔗 https://github.com/taro4kaaaaa/Portfolio 
 
 ---
 
@@ -37,13 +29,5 @@ Figma
 - Telegram: https://t.me/taro4ka  
 - Email: tarasov27032002@gmail.com  
 - GitHub: https://github.com/taro4kaaaaa  
-
----
-
-## ⚡ Обо мне  
-
--  Специализируюсь на frontend-разработке  
--  Развиваюсь в React   
--  Открыт к фрилансу и full-time работе  
 
 ---
