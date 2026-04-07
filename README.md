@@ -8,15 +8,24 @@ Frontend-разработчик, создаю современные, быстр
 
 ## 🧠 Стек технологий
 
-<ul>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:10px;"> <strong>HTML</strong></li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:10px;"> <strong>CSS</strong></li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:10px;"> <strong>JavaScript</strong></li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:10px;"> <strong>TypeScript</strong></li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:10px;"> <strong>React</strong></li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:10px;"> <strong>Git</strong></li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:10px;"> <strong>Figma</strong></li>
-</ul>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:8px;"> <strong>HTML</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:8px;"> <strong>CSS</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:8px;"> <strong>JavaScript</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:8px;"> <strong>TypeScript</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:8px;"> <strong>React</strong></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:8px;"> <strong>Git</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30" style="vertical-align:middle; margin-right:8px;"> <strong>Figma</strong></td>
+    <td></td>
+  </tr>
+</table>
 
 
 ---
