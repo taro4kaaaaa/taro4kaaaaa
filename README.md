@@ -1,48 +1,49 @@
-# 👋 Hi, I'm Konstantin  
+# 👋 Привет, я Константин  
 
-Frontend Developer focused on building clean and user-friendly interfaces  
+Frontend-разработчик, создаю современные, быстрые и удобные пользовательские интерфейсы  
 
-🚀 Open to remote opportunities  
-
----
-
-## 🧠 Tech Stack  
-
-HTML  
-CSS  
-JavaScript  
-React  
-Git  
-Figma  
+Открыт к удалённой работе и новым возможностям  
 
 ---
 
-## 🎨 Portfolio  
+## 🧠 Стек технологий  
 
-🔗 https://github.com/taro4kaaaaa/Portfolio  
-
----
-
-## 📂 Featured Projects  
-
-- 📌 Portfolio Website  
-- 📌 Landing Pages  
-- 📌 UI Components  
+HTML
+CSS
+JavaScript
+TypeScript
+React
+Git
+Figma
 
 ---
 
-## 📫 Contact Me  
+## 🎨 Портфолио  
 
-- Telegram: https://t.me/taro4ka 
-- Email: tarasov27032002@gmail.com
+🔗 Мои проекты
+
+---
+
+## 📂 Проекты  
+
+- 📌 Портфолио сайт  
+- 📌 Лендинги  
+- 📌 UI-компоненты  
+
+---
+
+## 📫 Связаться со мной  
+
+- Telegram: https://t.me/taro4ka  
+- Email: tarasov27032002@gmail.com  
 - GitHub: https://github.com/taro4kaaaaa  
 
 ---
 
-## ⚡ About Me  
+## ⚡ Обо мне  
 
-- 💻 Focused on Frontend Development  
-- 🎯 Currently improving React skills  
-- 🌍 Open for freelance & full-time  
+-  Специализируюсь на frontend-разработке  
+-  Развиваюсь в React   
+-  Открыт к фрилансу и full-time работе  
 
 ---
