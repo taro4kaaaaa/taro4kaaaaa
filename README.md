@@ -26,10 +26,9 @@ Frontend-разработчик, создаю современные, быстр
 
 ---
 
-## 📫 Связаться со мной  
+##  ✉️ Связаться со мной  
 
 - Telegram: https://t.me/taro4ka  
 - Email: tarasov27032002@gmail.com  
-- GitHub: https://github.com/taro4kaaaaa  
 
 ---
